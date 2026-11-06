@@ -1,0 +1,14 @@
+{
+  "@context": "https://repolex.ai/ontology/jsonld-context/repolex-context.jsonld",
+  "@id": "https://repolex.ai/r/scikit-image/skimage-workbooks",
+  "@type": "gh:Repository",
+  "gh:name": "skimage-workbooks",
+  "gh:owner": "scikit-image",
+  "repolex:trackedCommit": [
+    {
+      "@id": "https://repolex.ai/r/scikit-image/skimage-workbooks/commit/f0e3c1575f5f261f48554064d4104a791759f57a",
+      "git:hexsha": "f0e3c1575f5f261f48554064d4104a791759f57a",
+      "repolex:parseStatus": "metadata_complete"
+    }
+  ]
+}
